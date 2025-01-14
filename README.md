@@ -5,12 +5,12 @@ Guide for mining Monero in ubuntu
 
 	sudo apt-get update && sudo apt-get upgrade
 	sudo apt install git build-essential cmake automake libtool autoconf libuv1-dev libssl-dev libhwloc-dev
-  git clone https://github.com/xmrig/xmrig.git
-  cd xmrig
-  mkdir xmrig/build && cd xmrig/build
-  ./build_deps.sh && cd ../build
-  cmake .. -DXMRIG_DEPS=scripts/deps
-  make -j$ (type nproc for knowing your thread processor)
+  	git clone https://github.com/xmrig/xmrig.git
+  	cd xmrig
+  	mkdir xmrig/build && cd xmrig/build
+  	./build_deps.sh && cd ../build
+  	cmake .. -DXMRIG_DEPS=scripts/deps
+  	make -j$ (type nproc for knowing your thread processor)
  
  Once you have compiled XMRig, you need to configure it to start mining Monero.
  
