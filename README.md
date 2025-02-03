@@ -24,6 +24,6 @@ For use the CUDA
 	https://github.com/xmrig/xmrig-cuda/releases
 
  IF YOU WANT USE IN WINDOWS
- just clone this repositories
+ just go to the release page
 
- 	https://github.com/palacita135/Build-XMRIG-in-ubuntu.git
+ 	https://github.com/palacita135/Build-XMRIG-in-ubuntu/releases/tag/xmrig
