@@ -22,3 +22,8 @@ You need replace the wallet address or you will be mining for me
 For use the CUDA
 
 	https://github.com/xmrig/xmrig-cuda/releases
+
+ IF YOU WANT USE IN WINDOWS
+ just clone this repositories
+
+ 	https://github.com/palacita135/Build-XMRIG-in-ubuntu.git
