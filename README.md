@@ -18,3 +18,7 @@ or
 	./xmrig -o xmrpool.eu:3333 -u 48fTgPFzd8sLRETJ81gSK8PcixyP1EBq2RBaSvrqqvEFBoC7SyaUrigbcbjBhyv9fNGRv4yW6yGapdanipHEPFEQ3rXWvSs -p x
 
 You need replace the wallet address or you will be mining for me
+
+For use the CUDA
+
+	https://github.com/xmrig/xmrig-cuda/releases
