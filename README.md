@@ -1,4 +1,4 @@
-# ubuntu-XMRIG-Mining
+# Build-XMRIG-Mining
 
 Guide for mining Monero in ubuntu
 
